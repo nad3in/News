@@ -1,0 +1,29 @@
+.back{
+   width: 2rem;
+   margin-right: 32rem;
+}
+.backLink{
+    margin-right: 2rem;
+}
+.article{
+    width: 80rem;
+    align-items: center;
+}
+.title{
+    font-size: 1.5rem;
+}
+.img{
+    width: 25rem;
+    height: 15rem;
+}
+.description{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    overflow:visible;
+}
+.row{
+
+margin-top: 1rem;}
+.Logout{
+    margin-left: 30rem;
+}

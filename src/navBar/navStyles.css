@@ -1,0 +1,20 @@
+.nav-link{
+    color:white;
+    font-size: 1.25rem;
+}
+.nav-link:link {
+    color: rgb(228, 216, 195);
+  }
+.nav-link:hover {
+    color: rgb(228, 216, 195);
+  }
+.nav-link:active{
+    color:rgb(228, 216, 195);
+    
+}
+.home{
+    margin-left: 3rem;
+}
+.customLists{
+    margin-right: 3rem;
+}

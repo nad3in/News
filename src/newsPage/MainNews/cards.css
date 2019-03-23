@@ -1,0 +1,33 @@
+.cards{
+margin: 2rem;
+display: -webkit-inline-box;
+color: black;
+}
+.cards:hover{
+    text-decoration: none;  
+    color: black;
+}
+.card{
+    width: 20rem;
+    height: 18rem;
+    border: 0rem;
+}
+.card-img-top{
+    height: 10rem;
+    width: 20rem;
+    /* background-image:url('https://mastergolflivestream.com/images/clipart-paper-article-1.jpg'); */
+}
+.card-body{
+    padding: 0.5rem;
+}
+.card-text{
+    text-align: left;
+    vertical-align:text-bottom;
+    height: 1.5rem;
+    overflow: hidden;
+}
+.card-title{
+    font-size: 1.1rem;
+    font-style: bold;
+    margin-top:0rem;
+}
